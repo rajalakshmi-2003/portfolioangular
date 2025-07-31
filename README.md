@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="./src/assets/images/recording.gif"></img>
+<img src="./src/assets/images/folio.gif"></img>
   </kbd>
 </p>
 
