@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="./src/assets/images/portfolio.gif"></img>
+<img src="./src/assets/images/recording.gif"></img>
   </kbd>
 </p>
 
@@ -17,7 +17,7 @@
 ✔️ Open Source Projects Connected with Github\
 ✔️ Contact me\
 ✔️ Github Profile
-To view a live example, **[click here](https://sarthak-agrawal.me/)**
+To view a live example, **[click here]()**
 
 ## Getting Started 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
