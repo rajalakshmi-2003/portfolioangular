@@ -3,7 +3,7 @@
 
 <p align="center"> 
   <kbd>
-<img src="./src/assets/images/portfolio.gif"></img>
+<img src="./src/assets/images/folio.gif"></img>
   </kbd>
 </p>
 
@@ -17,7 +17,7 @@
 ✔️ Open Source Projects Connected with Github\
 ✔️ Contact me\
 ✔️ Github Profile
-To view a live example, **[click here](https://sarthak-agrawal.me/)**
+To view a live example, **[click here](https://rajalakshmi.me/)**
 
 ## Getting Started 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
@@ -37,7 +37,7 @@ Angular@8.0.2 or higher
 From your command line, clone and run AngularFolio:
 ```bash
 # Clone this repository
-$ git clone https://github.com/sarthakgoenka/Angularfolio
+$ git clone https://github.com/Rajalakshmi/Angularfolio
 
 # Go into the repository
 $ cd Angularfolio
