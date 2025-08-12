@@ -17,7 +17,11 @@
 ✔️ Open Source Projects Connected with Github\
 ✔️ Contact me\
 ✔️ Github Profile
+<<<<<<< HEAD
 To view a live example, **[click here](https://rajalakshmi.me/)**
+=======
+To view a live example, **[click here]()**
+>>>>>>> 5588026e5d72826af30cb06b1892c7a037b9f0b9
 
 ## Getting Started 🚀
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
